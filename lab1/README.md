@@ -44,12 +44,23 @@ Optionally extend the API or document it with [Swagger](https://swagger.io).
 - [API Endpoint Best Practices](https://www.telerik.com/blogs/7-tips-building-good-web-api)
 - The file seai-azure-cv-ocr-api.json has the structure to test calls to the Azure Vision API with Postman.
 
-## Setting up connection with Azire Cognitive services (Author: Vamsi)
-- Update the "AZURE _KEY" and "AZURE_ENDPOINT" in the .env file with your credententials to set them up as environment variables.
 
 ## Changes made (Author: Vamsi)
-- Added .env file to set up the "Azure Conginitive Services Key" and "Azure endpoint" as environment variables.
-- Added the requirement of "python-dotenv" in requirements.txt file.
-- Updated "analyze.py" to accomodate for the changes.
-- Tested the endpoint with Postman with multiple examples some of which are added to the root folder as screenshots named - "Example_X.png"
-- Updated the "README.md" file with updated configuration instructions.
+1.  Added ```.env``` file to set up the "Azure Conginitive Services Key" and "Azure endpoint" as environment variables.
+- ### Setting up connection with Azire Cognitive services (Author: Vamsi)
+- Update the ```AZURE _KEY``` and ```AZURE_ENDPOINT``` in the .env file with your credententials to set them up as environment variables.
+### .env
+```sh
+KEY = "AZURE_KEY"
+ENDPOINT = "AZURE_ENDPOINT"
+```
+2. Added the requirement of ```python-dotenv``` in ```requirements.txt``` file.
+3. Created a venv and ran ```pip install -r requirements.txt```
+4. Updated ```analyze.py``` to accomodate for the changes.
+5. Tested the endpoint with Postman with multiple examples some of which are added to the root folder as screenshots named - ```Example_X.png```
+
+Example_1            |  Example_2
+:-------------------------:|:-------------------------:
+![](Example_1.png)  |  ![](Example_2.png)
+
+6. Updated the ```README.md``` file with updated configuration instructions.

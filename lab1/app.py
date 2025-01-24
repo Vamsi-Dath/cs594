@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify, render_template
-from analyze import read_image
+from cs594.lab1.analyze import read_image
 
 app = Flask(__name__, template_folder='templates')
 
