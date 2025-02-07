@@ -1,0 +1,390 @@
+{timestamp: 2025-02-03 16:02:00, city: Denver, temperature: 25\u00baC}
+{timestamp: 2025-02-03 16:02:02, city: New York, temperature: 28\u00baC}
+{timestamp: 2025-02-03 16:02:03, city: Chicago, temperature: 20\u00baC}
+{timestamp: 2025-02-03 16:02:04, city: New Jersey, temperature: 23\u00baC}
+{timestamp: 2025-02-03 16:02:05, city: New York, temperature: 25\u00baC}
+{timestamp: 2025-02-03 16:02:06, city: Denver, temperature: 20\u00baC}
+{timestamp: 2025-02-03 16:02:07, city: Denver, temperature: 32\u00baC}
+{timestamp: 2025-02-03 16:02:08, city: Los Angeles, temperature: 24\u00baC}
+{timestamp: 2025-02-03 16:02:09, city: Los Angeles, temperature: 29\u00baC}
+{timestamp: 2025-02-03 16:02:10, city: Chicago, temperature: 19\u00baC}
+2025-02-03 21:21:13,tx,27\u00baC
+2025-02-03 21:21:14,chicago,19\u00baC
+2025-02-03 21:21:15,nyc,27\u00baC
+2025-02-03 21:21:16,tx,28\u00baC
+2025-02-03 21:21:17,tx,20\u00baC
+2025-02-03 21:21:18,chicago,26\u00baC
+2025-02-03 21:21:19,nyc,31\u00baC
+2025-02-03 21:21:20,nyc,22\u00baC
+2025-02-03 21:21:21,tx,28\u00baC
+2025-02-03 21:21:22,chicago,21\u00baC
+2025-02-03 22:26:56,nyc,27\u00baC
+2025-02-03 22:26:57,tx,26\u00baC
+2025-02-03 22:26:58,tx,30\u00baC
+2025-02-03 22:26:59,nyc,21\u00baC
+2025-02-03 22:27:00,tx,20\u00baC
+2025-02-03 22:27:01,chicago,20\u00baC
+2025-02-03 22:27:02,nyc,19\u00baC
+2025-02-03 22:27:03,chicago,26\u00baC
+2025-02-03 22:27:04,nyc,32\u00baC
+2025-02-03 22:27:05,nyc,26\u00baC
+2025-02-03 22:29:11,nyc,26\u00baC
+2025-02-03 22:29:12,nyc,21\u00baC
+2025-02-03 22:29:13,nyc,29\u00baC
+2025-02-03 22:29:14,nyc,20\u00baC
+2025-02-03 22:29:15,tx,19\u00baC
+2025-02-03 22:29:16,chicago,24\u00baC
+2025-02-03 22:29:17,tx,30\u00baC
+2025-02-03 22:29:18,nyc,27\u00baC
+2025-02-03 22:29:19,nyc,26\u00baC
+2025-02-03 22:29:20,nyc,27\u00baC
+2025-02-03 22:30:14,tx,20\u00baC
+2025-02-03 22:30:15,tx,31\u00baC
+2025-02-03 22:30:16,chicago,22\u00baC
+2025-02-03 22:30:17,tx,28\u00baC
+2025-02-03 22:30:18,chicago,25\u00baC
+2025-02-03 22:30:19,nyc,18\u00baC
+2025-02-03 22:30:20,chicago,31\u00baC
+2025-02-03 22:30:21,nyc,24\u00baC
+2025-02-03 22:30:22,nyc,24\u00baC
+2025-02-03 22:30:23,chicago,27\u00baC
+2025-02-04 12:03:19,nyc,22\u00baC
+2025-02-04 12:03:20,chicago,31\u00baC
+2025-02-04 12:03:21,tx,21\u00baC
+2025-02-04 12:03:22,chicago,26\u00baC
+2025-02-04 12:03:23,tx,22\u00baC
+2025-02-04 12:03:24,chicago,25\u00baC
+2025-02-04 12:03:25,tx,28\u00baC
+2025-02-04 12:03:26,tx,28\u00baC
+2025-02-04 12:03:27,chicago,26\u00baC
+2025-02-04 12:03:28,chicago,32\u00baC
+2025-02-04 12:09:23,chicago,22\u00baC
+2025-02-04 12:09:24,tx,28\u00baC
+2025-02-04 12:09:25,chicago,29\u00baC
+2025-02-04 12:09:26,nyc,21\u00baC
+2025-02-04 12:09:27,nyc,24\u00baC
+2025-02-04 12:09:28,tx,22\u00baC
+2025-02-04 12:09:29,chicago,21\u00baC
+2025-02-04 12:09:30,tx,18\u00baC
+2025-02-04 12:09:31,tx,25\u00baC
+2025-02-04 12:09:32,tx,22\u00baC
+2025-02-04 12:10:42,Texas,30\u00baC
+2025-02-04 12:10:43,NYC,23\u00baC
+2025-02-04 12:10:44,Chicago,21\u00baC
+2025-02-04 12:10:45,Chicago,30\u00baC
+2025-02-04 12:10:46,Chicago,27\u00baC
+2025-02-04 12:10:47,Chicago,19\u00baC
+2025-02-04 12:10:48,Texas,23\u00baC
+2025-02-04 12:10:49,Chicago,22\u00baC
+2025-02-04 12:10:50,Texas,27\u00baC
+2025-02-04 12:10:51,NYC,29\u00baC
+2025-02-04 16:21:50,Huntsville,19\u00baC
+2025-02-04 16:21:51,Chicago,29\u00baC
+2025-02-04 16:21:52,New York,27\u00baC
+2025-02-04 16:21:53,Chicago,19\u00baC
+2025-02-04 16:21:54,Huntsville,19\u00baC
+2025-02-04 16:21:55,Chicago,24\u00baC
+2025-02-04 16:21:56,Huntsville,25\u00baC
+2025-02-04 16:21:57,New York,23\u00baC
+2025-02-04 16:21:58,Huntsville,20\u00baC
+2025-02-04 16:21:59,New York,27\u00baC
+2025-02-04 16:23:01,Kathmandu,20\u00baC
+2025-02-04 16:23:02,Huntsville,26\u00baC
+2025-02-04 16:23:03,Richmond,26\u00baC
+2025-02-04 16:23:04,Biratnagar,30\u00baC
+2025-02-04 16:23:05,Kathmandu,29\u00baC
+2025-02-04 16:23:06,Fairmont,24\u00baC
+2025-02-04 16:23:07,Richmond,23\u00baC
+2025-02-04 16:23:08,Guntersville,29\u00baC
+2025-02-04 16:23:09,Las Vegas,27\u00baC
+2025-02-04 16:23:10,Las Vegas,27\u00baC
+2025-02-04 18:00:39,New York,31\u00baC
+2025-02-04 18:00:40,Los Angeles,24\u00baC
+2025-02-04 18:00:41,Chicago,22\u00baC
+2025-02-04 18:00:42,Chicago,30\u00baC
+2025-02-04 18:00:43,New York,29\u00baC
+2025-02-04 18:00:44,Los Angeles,19\u00baC
+2025-02-04 18:00:45,Chicago,19\u00baC
+2025-02-04 18:00:46,New York,29\u00baC
+2025-02-04 18:00:47,New York,28\u00baC
+2025-02-04 18:00:48,New York,23\u00baC
+{timestamp: 2025-02-05 15:36:33, city: New Jersey, temperature: 26\u00baC}
+{timestamp: 2025-02-05 15:36:34, city: New York, temperature: 31\u00baC}
+{timestamp: 2025-02-05 15:36:35, city: New Jersey, temperature: 23\u00baC}
+{timestamp: 2025-02-05 15:36:36, city: Chicago, temperature: 25\u00baC}
+{timestamp: 2025-02-05 15:36:37, city: Los Angeles, temperature: 19\u00baC}
+{timestamp: 2025-02-05 15:36:38, city: Chicago, temperature: 21\u00baC}
+{timestamp: 2025-02-05 15:36:39, city: Denver, temperature: 26\u00baC}
+{timestamp: 2025-02-05 15:36:40, city: New York, temperature: 31\u00baC}
+{timestamp: 2025-02-05 15:36:41, city: Denver, temperature: 26\u00baC}
+{timestamp: 2025-02-05 15:36:42, city: Los Angeles, temperature: 26\u00baC}
+{timestamp: 2025-02-05 20:12:57, city: Chicago, temperature: 18\u00baC}
+{timestamp: 2025-02-05 20:12:58, city: Los Angeles, temperature: 19\u00baC}
+{timestamp: 2025-02-05 20:12:59, city: New Jersey, temperature: 23\u00baC}
+{timestamp: 2025-02-05 20:13:00, city: Los Angeles, temperature: 19\u00baC}
+{timestamp: 2025-02-05 20:13:01, city: Chicago, temperature: 24\u00baC}
+{timestamp: 2025-02-05 20:13:02, city: Chicago, temperature: 23\u00baC}
+{timestamp: 2025-02-05 20:13:03, city: New Jersey, temperature: 21\u00baC}
+{timestamp: 2025-02-05 20:13:04, city: Denver, temperature: 30\u00baC}
+{timestamp: 2025-02-05 20:13:05, city: Chicago, temperature: 23\u00baC}
+{timestamp: 2025-02-05 20:13:06, city: New Jersey, temperature: 18\u00baC}
+2025-02-06 10:33:50,{'city': 'San Francisco', 'temperature': 22},30\u00baC
+2025-02-06 10:33:51,{'city': 'Chicago', 'temperature': 30},29\u00baC
+2025-02-06 10:33:52,{'city': 'San Francisco', 'temperature': 22},20\u00baC
+2025-02-06 10:33:53,{'city': 'Chicago', 'temperature': 30},25\u00baC
+2025-02-06 10:33:54,{'city': 'San Francisco', 'temperature': 22},31\u00baC
+2025-02-06 10:33:55,{'city': 'San Francisco', 'temperature': 22},32\u00baC
+2025-02-06 10:33:56,{'city': 'New York', 'temperature': 25},20\u00baC
+2025-02-06 10:33:57,{'city': 'Chicago', 'temperature': 30},31\u00baC
+2025-02-06 10:33:58,{'city': 'San Francisco', 'temperature': 22},18\u00baC
+2025-02-06 10:33:59,{'city': 'San Francisco', 'temperature': 22},30\u00baC
+2025-02-06 14:17:43,{'city': 'San Francisco', 'temperature': 22},18\u00baC
+2025-02-06 14:17:44,{'city': 'New York', 'temperature': 25},24\u00baC
+2025-02-06 14:17:45,{'city': 'San Francisco', 'temperature': 22},18\u00baC
+2025-02-06 14:17:46,{'city': 'New York', 'temperature': 25},28\u00baC
+2025-02-06 14:17:47,{'city': 'San Francisco', 'temperature': 22},19\u00baC
+2025-02-06 14:17:48,{'city': 'Chicago', 'temperature': 30},30\u00baC
+2025-02-06 14:17:49,{'city': 'New York', 'temperature': 25},26\u00baC
+2025-02-06 14:17:50,{'city': 'Chicago', 'temperature': 30},18\u00baC
+2025-02-06 14:17:51,{'city': 'New York', 'temperature': 25},27\u00baC
+2025-02-06 14:17:52,{'city': 'Chicago', 'temperature': 30},29\u00baC
+2025-02-06 14:36:18,{'city': 'Chicago', 'temperature': 30},18\u00baC
+2025-02-06 14:36:19,{'city': 'New York', 'temperature': 25},32\u00baC
+2025-02-06 14:36:20,{'city': 'New York', 'temperature': 25},27\u00baC
+2025-02-06 14:36:21,{'city': 'Chicago', 'temperature': 30},25\u00baC
+2025-02-06 14:36:22,{'city': 'Chicago', 'temperature': 30},24\u00baC
+2025-02-06 14:36:23,{'city': 'Chicago', 'temperature': 30},22\u00baC
+2025-02-06 14:36:24,{'city': 'New York', 'temperature': 25},22\u00baC
+2025-02-06 14:36:25,{'city': 'New York', 'temperature': 25},19\u00baC
+2025-02-06 14:36:26,{'city': 'Chicago', 'temperature': 30},23\u00baC
+2025-02-06 14:36:27,{'city': 'New York', 'temperature': 25},26\u00baC
+2025-02-06 15:32:09,Texas,19\u00baC
+2025-02-06 15:32:10,Texas,26\u00baC
+2025-02-06 15:32:11,NYC,21\u00baC
+2025-02-06 15:32:12,Chicago,18\u00baC
+2025-02-06 15:32:13,NYC,22\u00baC
+2025-02-06 15:32:14,Chicago,21\u00baC
+2025-02-06 15:32:15,Texas,20\u00baC
+2025-02-06 15:32:16,Chicago,32\u00baC
+2025-02-06 15:32:17,NYC,19\u00baC
+2025-02-06 15:32:18,Texas,20\u00baC
+2025-02-06 16:45:49,Seatle,20\u00baC
+2025-02-06 16:45:50,Seatle,21\u00baC
+2025-02-06 16:45:51,Seatle,26\u00baC
+2025-02-06 16:45:52,San Francisco,31\u00baC
+2025-02-06 16:45:53,Seatle,30\u00baC
+2025-02-06 16:45:54,San Francisco,23\u00baC
+2025-02-06 16:45:55,Seatle,23\u00baC
+2025-02-06 16:45:56,San Francisco,28\u00baC
+2025-02-06 16:45:57,Chicago,21\u00baC
+2025-02-06 16:45:58,Chicago,21\u00baC
+2025-02-06 16:58:22,Columbia,22\u00baC
+2025-02-06 16:58:23,Detroit,27\u00baC
+2025-02-06 16:58:24,Bangalore,28\u00baC
+2025-02-06 16:58:25,Chicago,32\u00baC
+2025-02-06 16:58:26,Bangalore,21\u00baC
+2025-02-06 16:58:27,Santa Fe,24\u00baC
+2025-02-06 16:58:28,Santa Fe,19\u00baC
+2025-02-06 16:58:29,Columbia,20\u00baC
+2025-02-06 16:58:30,Columbia,19\u00baC
+2025-02-06 16:58:31,Columbia,23\u00baC
+2025-02-06 18:05:26,Chicago,25\u00baC
+2025-02-06 18:05:27,San Francisco,22\u00baC
+2025-02-06 18:05:28,Chicago,27\u00baC
+2025-02-06 18:05:29,San Francisco,29\u00baC
+2025-02-06 18:05:30,Chicago,19\u00baC
+2025-02-06 18:05:31,San Francisco,30\u00baC
+2025-02-06 18:05:32,Seatle,27\u00baC
+2025-02-06 18:05:33,San Francisco,25\u00baC
+2025-02-06 18:05:34,Chicago,28\u00baC
+2025-02-06 18:05:35,San Francisco,29\u00baC
+2025-02-06 18:41:39,{'city': 'New York', 'temperature': 25},28\u00baC
+2025-02-06 18:41:41,{'city': 'San Francisco', 'temperature': 22},26\u00baC
+2025-02-06 18:41:42,{'city': 'San Francisco', 'temperature': 22},22\u00baC
+2025-02-06 18:41:43,{'city': 'San Francisco', 'temperature': 22},20\u00baC
+2025-02-06 18:41:44,{'city': 'New York', 'temperature': 25},29\u00baC
+2025-02-06 18:41:45,{'city': 'San Francisco', 'temperature': 22},25\u00baC
+2025-02-06 18:41:46,{'city': 'San Francisco', 'temperature': 22},23\u00baC
+2025-02-06 18:41:47,{'city': 'San Francisco', 'temperature': 22},18\u00baC
+2025-02-06 18:41:48,{'city': 'New York', 'temperature': 25},22\u00baC
+2025-02-06 18:41:49,{'city': 'New York', 'temperature': 25},19\u00baC
+2025-02-06 18:42:53,Seatle,25\u00baC
+2025-02-06 18:42:54,Seatle,23\u00baC
+2025-02-06 18:42:55,Seatle,25\u00baC
+2025-02-06 18:42:56,San Francisco,28\u00baC
+2025-02-06 18:42:57,San Francisco,22\u00baC
+2025-02-06 18:42:58,San Francisco,27\u00baC
+2025-02-06 18:42:59,Chicago,27\u00baC
+2025-02-06 18:43:00,Seatle,22\u00baC
+2025-02-06 18:43:01,Chicago,22\u00baC
+2025-02-06 18:43:02,San Francisco,18\u00baC
+2025-02-06 18:50:49,Houston,20\u00baC
+2025-02-06 18:50:50,San Francisco,29\u00baC
+2025-02-06 18:50:51,Los Angeles,23\u00baC
+2025-02-06 18:50:52,Houston,21\u00baC
+2025-02-06 18:50:53,San Francisco,30\u00baC
+2025-02-06 18:50:54,Houston,18\u00baC
+2025-02-06 18:50:55,Los Angeles,26\u00baC
+2025-02-06 18:50:56,Chicago,28\u00baC
+2025-02-06 18:50:57,Los Angeles,25\u00baC
+2025-02-06 18:50:58,Los Angeles,29\u00baC
+2025-02-06 18:50:59,{'city': 'New York', 'temperature': 25},30\u00baC
+2025-02-06 18:51:00,{'city': 'Chicago', 'temperature': 30},20\u00baC
+2025-02-06 18:51:01,{'city': 'New York', 'temperature': 25},22\u00baC
+2025-02-06 18:51:02,{'city': 'San Francisco', 'temperature': 22},28\u00baC
+2025-02-06 18:51:03,{'city': 'San Francisco', 'temperature': 22},19\u00baC
+2025-02-06 18:51:04,{'city': 'San Francisco', 'temperature': 22},30\u00baC
+2025-02-06 18:51:05,{'city': 'Chicago', 'temperature': 30},18\u00baC
+2025-02-06 18:51:06,{'city': 'San Francisco', 'temperature': 22},21\u00baC
+2025-02-06 18:51:07,{'city': 'San Francisco', 'temperature': 22},20\u00baC
+2025-02-06 18:51:08,{'city': 'New York', 'temperature': 25},25\u00baC
+2025-02-06 19:06:17,{'city': 'New York', 'temperature': 25},19\u00baC
+2025-02-06 19:06:18,{'city': 'San Francisco', 'temperature': 22},21\u00baC
+2025-02-06 19:06:19,{'city': 'New York', 'temperature': 25},20\u00baC
+2025-02-06 19:06:20,{'city': 'Chicago', 'temperature': 30},21\u00baC
+2025-02-06 19:06:21,{'city': 'Chicago', 'temperature': 30},32\u00baC
+2025-02-06 19:06:23,{'city': 'Chicago', 'temperature': 30},32\u00baC
+2025-02-06 19:06:24,{'city': 'Chicago', 'temperature': 30},28\u00baC
+2025-02-06 19:06:25,{'city': 'New York', 'temperature': 25},25\u00baC
+2025-02-06 19:06:26,{'city': 'Chicago', 'temperature': 30},25\u00baC
+2025-02-06 19:06:27,{'city': 'New York', 'temperature': 25},32\u00baC
+2025-02-06 20:28:55,Chicago,22\u00baC
+2025-02-06 20:28:56,Boston,29\u00baC
+2025-02-06 20:28:57,Chicago,18\u00baC
+2025-02-06 20:28:58,Dubai,32\u00baC
+2025-02-06 20:28:59,Dubai,25\u00baC
+2025-02-06 20:29:00,Dubai,23\u00baC
+2025-02-06 20:29:01,Boston,23\u00baC
+2025-02-06 20:29:02,Sydney,24\u00baC
+2025-02-06 20:29:03,Sydney,27\u00baC
+2025-02-06 20:29:04,Sydney,25\u00baC
+2025-02-06 20:44:46,Los Angeles,22\u00baC
+2025-02-06 20:44:47,San Francisco,32\u00baC
+2025-02-06 20:44:48,Los Angeles,24\u00baC
+2025-02-06 20:44:49,Los Angeles,18\u00baC
+2025-02-06 20:44:50,Houston,22\u00baC
+2025-02-06 20:44:51,Chicago,28\u00baC
+2025-02-06 20:44:52,Houston,30\u00baC
+2025-02-06 20:44:53,Chicago,32\u00baC
+2025-02-06 20:44:54,San Francisco,25\u00baC
+2025-02-06 20:44:55,Houston,24\u00baC
+2025-02-06 20:52:52,Houston,31\u00baC
+2025-02-06 20:52:53,Chicago,22\u00baC
+2025-02-06 20:52:54,Houston,18\u00baC
+2025-02-06 20:52:55,Los Angeles,23\u00baC
+2025-02-06 20:52:56,San Francisco,18\u00baC
+2025-02-06 20:52:57,Houston,19\u00baC
+2025-02-06 20:52:58,Los Angeles,21\u00baC
+2025-02-06 20:52:59,San Francisco,29\u00baC
+2025-02-06 20:53:00,San Francisco,22\u00baC
+2025-02-06 20:53:01,Chicago,27\u00baC
+2025-02-06 21:06:23,Chicago,31\u00baC
+2025-02-06 21:06:24,Seatle,25\u00baC
+2025-02-06 21:06:25,San Francisco,27\u00baC
+2025-02-06 21:06:26,Seatle,30\u00baC
+2025-02-06 21:06:27,Chicago,28\u00baC
+2025-02-06 21:06:28,Seatle,19\u00baC
+2025-02-06 21:06:29,Seatle,31\u00baC
+2025-02-06 21:06:30,Seatle,27\u00baC
+2025-02-06 21:06:31,Chicago,26\u00baC
+2025-02-06 21:06:32,Chicago,30\u00baC
+2025-02-06 21:10:55,Los Angeles,19\u00baC
+2025-02-06 21:10:56,San Francisco,30\u00baC
+2025-02-06 21:10:57,San Francisco,20\u00baC
+2025-02-06 21:10:58,San Francisco,24\u00baC
+2025-02-06 21:10:59,Chicago,19\u00baC
+2025-02-06 21:11:00,Los Angeles,23\u00baC
+2025-02-06 21:11:01,Houston,27\u00baC
+2025-02-06 21:11:02,Houston,22\u00baC
+2025-02-06 21:11:03,San Francisco,28\u00baC
+2025-02-06 21:11:04,Chicago,24\u00baC
+2025-02-06 21:29:19,Seatle,18\u00baC
+2025-02-06 21:29:20,Chicago,29\u00baC
+2025-02-06 21:29:21,Chicago,21\u00baC
+2025-02-06 21:29:22,Chicago,32\u00baC
+2025-02-06 21:29:23,San Francisco,28\u00baC
+2025-02-06 21:29:24,San Francisco,28\u00baC
+2025-02-06 21:29:25,San Francisco,29\u00baC
+2025-02-06 21:29:26,San Francisco,32\u00baC
+2025-02-06 21:29:27,Chicago,26\u00baC
+2025-02-06 21:29:28,Chicago,20\u00baC
+2025-02-06 21:35:32,Los Angeles,18\u00baC
+2025-02-06 21:35:33,Los Angeles,30\u00baC
+2025-02-06 21:35:34,Chicago,21\u00baC
+2025-02-06 21:35:35,San Francisco,22\u00baC
+2025-02-06 21:35:36,Houston,30\u00baC
+2025-02-06 21:35:37,Houston,24\u00baC
+2025-02-06 21:35:38,Los Angeles,29\u00baC
+2025-02-06 21:35:39,Los Angeles,29\u00baC
+2025-02-06 21:35:40,Chicago,23\u00baC
+2025-02-06 21:35:41,Los Angeles,27\u00baC
+2025-02-06 22:19:27,New York,31\u00baC
+2025-02-06 22:19:28,Sydney,25\u00baC
+2025-02-06 22:19:29,Paris,21\u00baC
+2025-02-06 22:19:30,Tokyo,28\u00baC
+2025-02-06 22:19:31,Tokyo,18\u00baC
+2025-02-06 22:19:32,Sydney,18\u00baC
+2025-02-06 22:19:33,Sydney,24\u00baC
+2025-02-06 22:19:34,New York,20\u00baC
+2025-02-06 22:19:35,Paris,29\u00baC
+2025-02-06 22:19:36,Tokyo,30\u00baC
+2025-02-06 22:43:34,Chicago,27\u00baC
+2025-02-06 22:43:35,New York,29\u00baC
+2025-02-06 22:43:36,Chicago,21\u00baC
+2025-02-06 22:43:37,Chicago,25\u00baC
+2025-02-06 22:43:38,New York,28\u00baC
+2025-02-06 22:43:39,New York,31\u00baC
+2025-02-06 22:43:40,Chicago,32\u00baC
+2025-02-06 22:43:41,San Francisco,31\u00baC
+2025-02-06 22:43:42,San Francisco,28\u00baC
+2025-02-06 22:43:43,New York,20\u00baC
+{timestamp: 2025-02-06 22:48:45, city: Paris, temperature: 29\u00baC}
+{timestamp: 2025-02-06 22:48:46, city: Paris, temperature: 26\u00baC}
+{timestamp: 2025-02-06 22:48:47, city: Paris, temperature: 21\u00baC}
+{timestamp: 2025-02-06 22:48:48, city: Delhi, temperature: 27\u00baC}
+{timestamp: 2025-02-06 22:48:49, city: Chicago, temperature: 25\u00baC}
+{timestamp: 2025-02-06 22:48:50, city: Palo Alto, temperature: 28\u00baC}
+{timestamp: 2025-02-06 22:48:51, city: Paris, temperature: 32\u00baC}
+{timestamp: 2025-02-06 22:48:52, city: Miami, temperature: 24\u00baC}
+{timestamp: 2025-02-06 22:48:53, city: Palo Alto, temperature: 23\u00baC}
+{timestamp: 2025-02-06 22:48:54, city: Palo Alto, temperature: 20\u00baC}
+{timestamp: 2025-02-06 22:58:35, city: Denver, temperature: 31\u00baC}
+{timestamp: 2025-02-06 22:58:36, city: Los Angeles, temperature: 30\u00baC}
+{timestamp: 2025-02-06 22:58:37, city: Denver, temperature: 23\u00baC}
+{timestamp: 2025-02-06 22:58:38, city: New York, temperature: 21\u00baC}
+{timestamp: 2025-02-06 22:58:39, city: Los Angeles, temperature: 29\u00baC}
+{timestamp: 2025-02-06 22:58:40, city: Los Angeles, temperature: 23\u00baC}
+{timestamp: 2025-02-06 22:58:41, city: Los Angeles, temperature: 27\u00baC}
+{timestamp: 2025-02-06 22:58:42, city: Denver, temperature: 23\u00baC}
+{timestamp: 2025-02-06 22:58:43, city: Los Angeles, temperature: 28\u00baC}
+{timestamp: 2025-02-06 22:58:44, city: Denver, temperature: 27\u00baC}
+2025-02-06 23:15:21,Banglore,24\u00baC
+2025-02-06 23:15:22,Chennai,26\u00baC
+2025-02-06 23:15:23,Hyderabad,26\u00baC
+2025-02-06 23:15:24,Banglore,27\u00baC
+2025-02-06 23:15:25,Vizag,28\u00baC
+2025-02-06 23:15:26,Chennai,23\u00baC
+2025-02-06 23:15:27,Delhi,27\u00baC
+2025-02-06 23:15:28,Chennai,23\u00baC
+2025-02-06 23:15:29,Kolkata,30\u00baC
+2025-02-06 23:15:30,Delhi,20\u00baC
+2025-02-06 23:23:32,Chennai,19\u00baC
+2025-02-06 23:23:33,Delhi,31\u00baC
+2025-02-06 23:23:34,Kolkata,24\u00baC
+2025-02-06 23:23:35,Vizag,32\u00baC
+2025-02-06 23:23:36,Kolkata,20\u00baC
+2025-02-06 23:23:37,Mumbai,25\u00baC
+2025-02-06 23:23:38,Hyderabad,27\u00baC
+2025-02-06 23:23:39,Delhi,27\u00baC
+2025-02-06 23:23:40,Chennai,18\u00baC
+2025-02-06 23:23:41,Chennai,18\u00baC
+2025-02-06 23:27:39,Kolkata,31\u00baC
+2025-02-06 23:27:40,Delhi,28\u00baC
+2025-02-06 23:27:41,Banglore,27\u00baC
+2025-02-06 23:27:42,Hyderabad,26\u00baC
+2025-02-06 23:27:43,Vizag,32\u00baC
+2025-02-06 23:27:44,Vizag,26\u00baC
+2025-02-06 23:27:45,Hyderabad,26\u00baC
+2025-02-06 23:27:46,Hyderabad,27\u00baC
+2025-02-06 23:27:47,Banglore,21\u00baC
+2025-02-06 23:27:48,Banglore,23\u00baC
